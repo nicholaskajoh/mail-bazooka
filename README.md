@@ -1,4 +1,4 @@
-# MailBazuka
+# MailBazooka
 
 Simple python script to send an email to a large number of addresses using Mailgun's email API.
 
